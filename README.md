@@ -25,7 +25,7 @@ Os objetos podem ser decorados a qualquer momento, então podemos decorar os obj
 </li>
 </ul>
 </p>
-####Fonte: <a href="https://www.devmedia.com.br/padrao-de-projeto-decorator-em-java/26238">DEVMEDIA</a>
+#### Fonte: <a href="https://www.devmedia.com.br/padrao-de-projeto-decorator-em-java/26238">DEVMEDIA</a>
 
 
 ## OBSERVER
@@ -39,4 +39,4 @@ O padrão Observer funciona da mesma forma, no entanto, tem-se que a editora (qu
 Os OBSERVERs registram-se no SUBJECT para receber atualizações quando os dados do SUBJECT são alterados. Os OBSERVERs também podem cancelar o seu registro e dessa forma não receber mais nenhuma atualização do SUBJECT.
 </p>
 
-####Fonte: <a href="https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163">DEVMEDIA</a>
+#### Fonte: <a href="https://www.devmedia.com.br/padrao-de-projeto-observer-em-java/26163">DEVMEDIA</a>
