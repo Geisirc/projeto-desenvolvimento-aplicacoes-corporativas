@@ -1,7 +1,5 @@
-package testeCafÈShop;
+package testeCaf√©Shop;
 
-import java.math.BigDecimal;
-import java.text.DateFormat;
 import java.text.DecimalFormat;
 
 import servicos.Bebida;
